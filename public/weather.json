@@ -1,0 +1,129 @@
+[
+  {
+    "main": "Thunderstorm",
+    "uzbek": "Momaqaldiroq",
+    "descriptions": [
+      { "en": "thunderstorm with light rain", "uz": "yengil yomg'ir bilan momaqaldiroq" },
+      { "en": "thunderstorm with rain", "uz": "yomg'ir bilan momaqaldiroq" },
+      { "en": "thunderstorm with heavy rain", "uz": "kuchli yomg'ir bilan momaqaldiroq" },
+      { "en": "light thunderstorm", "uz": "yengil momaqaldiroq" },
+      { "en": "thunderstorm", "uz": "momaqaldiroq" },
+      { "en": "heavy thunderstorm", "uz": "kuchli momaqaldiroq" },
+      { "en": "ragged thunderstorm", "uz": "notekis momaqaldiroq" },
+      { "en": "thunderstorm with light drizzle", "uz": "yengil sepingan yomg'ir bilan momaqaldiroq" },
+      { "en": "thunderstorm with drizzle", "uz": "sepingan yomg'ir bilan momaqaldiroq" },
+      { "en": "thunderstorm with heavy drizzle", "uz": "kuchli sepingan yomg'ir bilan momaqaldiroq" }
+    ]
+  },
+  {
+    "main": "Drizzle",
+    "uzbek": "Sepingan yomg'ir",
+    "descriptions": [
+      { "en": "light intensity drizzle", "uz": "yengil sepingan yomg'ir" },
+      { "en": "drizzle", "uz": "sepingan yomg'ir" },
+      { "en": "heavy intensity drizzle", "uz": "kuchli sepingan yomg'ir" },
+      { "en": "light intensity drizzle rain", "uz": "yengil yomg'irli sepingan yomg'ir" },
+      { "en": "drizzle rain", "uz": "yomg'irli sepingan yomg'ir" },
+      { "en": "heavy intensity drizzle rain", "uz": "kuchli yomg'irli sepingan yomg'ir" },
+      { "en": "shower rain and drizzle", "uz": "yomg'ir yog'ishi va sepingan yomg'ir" },
+      { "en": "heavy shower rain and drizzle", "uz": "kuchli yomg'ir yog'ishi va sepingan yomg'ir" },
+      { "en": "shower drizzle", "uz": "yog'ingarchilikli sepingan yomg'ir" }
+    ]
+  },
+  {
+    "main": "Rain",
+    "uzbek": "Yomg'ir",
+    "descriptions": [
+      { "en": "light rain", "uz": "yengil yomg'ir" },
+      { "en": "moderate rain", "uz": "o'rtacha yomg'ir" },
+      { "en": "heavy intensity rain", "uz": "kuchli yomg'ir" },
+      { "en": "very heavy rain", "uz": "juda kuchli yomg'ir" },
+      { "en": "extreme rain", "uz": "nihoyatda kuchli yomg'ir" },
+      { "en": "freezing rain", "uz": "muzlab tushayotgan yomg'ir" },
+      { "en": "light intensity shower rain", "uz": "yengil yomg'ir yog'ishi" },
+      { "en": "shower rain", "uz": "yomg'ir yog'ishi" },
+      { "en": "heavy intensity shower rain", "uz": "kuchli yomg'ir yog'ishi" },
+      { "en": "ragged shower rain", "uz": "notekis yomg'ir yog'ishi" }
+    ]
+  },
+  {
+    "main": "Snow",
+    "uzbek": "Qor",
+    "descriptions": [
+      { "en": "light snow", "uz": "yengil qor" },
+      { "en": "snow", "uz": "qor" },
+      { "en": "heavy snow", "uz": "kuchli qor" },
+      { "en": "sleet", "uz": "yomg'ir aralash qor (do'l)" },
+      { "en": "light shower sleet", "uz": "yengil do'l yog'ishi" },
+      { "en": "shower sleet", "uz": "do'l yog'ishi" },
+      { "en": "light rain and snow", "uz": "yengil yomg'ir va qor" },
+      { "en": "rain and snow", "uz": "yomg'ir va qor" },
+      { "en": "light shower snow", "uz": "yengil qor yog'ishi" },
+      { "en": "shower snow", "uz": "qor yog'ishi" },
+      { "en": "heavy shower snow", "uz": "kuchli qor yog'ishi" }
+    ]
+  },
+  {
+    "main": "Mist",
+    "uzbek": "Tuman",
+    "descriptions": [{ "en": "mist", "uz": "tuman" }]
+  },
+  {
+    "main": "Smoke",
+    "uzbek": "Tutun",
+    "descriptions": [{ "en": "smoke", "uz": "tutun" }]
+  },
+  {
+    "main": "Haze",
+    "uzbek": "Xira havo",
+    "descriptions": [{ "en": "haze", "uz": "xira havo" }]
+  },
+  {
+    "main": "Dust",
+    "uzbek": "Chang",
+    "descriptions": [
+      { "en": "sand/dust whirls", "uz": "qum/chang aylanishi" },
+      { "en": "dust", "uz": "chang" }
+    ]
+  },
+  {
+    "main": "Fog",
+    "uzbek": "Tuman",
+    "descriptions": [{ "en": "fog", "uz": "tuman" }]
+  },
+  {
+    "main": "Sand",
+    "uzbek": "Qum bo'roni",
+    "descriptions": [{ "en": "sand", "uz": "qum" }]
+  },
+  {
+    "main": "Ash",
+    "uzbek": "Kul",
+    "descriptions": [{ "en": "volcanic ash", "uz": "vulqon kuli" }]
+  },
+  {
+    "main": "Squall",
+    "uzbek": "Shamolli to‘lqin",
+    "descriptions": [{ "en": "squalls", "uz": "shiddatli shamol" }]
+  },
+  {
+    "main": "Tornado",
+    "uzbek": "Tornado",
+    "descriptions": [{ "en": "tornado", "uz": "tornado (xavfli aylanish)" }]
+  },
+  {
+    "main": "Clear",
+    "uzbek": "Musaffo",
+    "descriptions": [{ "en": "clear sky", "uz": "musaffo osmon" }]
+  },
+  {
+    "main": "Clouds",
+    "uzbek": "Bulutlar",
+    "descriptions": [
+      { "en": "few clouds: 11-25%", "uz": "oz miqdorda bulutlar: 11-25%" },
+      { "en": "scattered clouds: 25-50%", "uz": "sochilgan bulutlar: 25-50%" },
+      { "en": "broken clouds: 51-84%", "uz": "qisman bulutli: 51-84%" },
+      { "en": "overcast clouds: 85-100%", "uz": "to‘liq bulutli: 85-100%" }
+    ]
+  }
+]
